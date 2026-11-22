@@ -23,12 +23,6 @@ Welcome to the **NeonAbyss Virtual Machine** repository. This project provides a
 
 ---
 
-### Requirements
-*   **Virtualization Software:** VMware Workstation, VirtualBox, or QEMU/KVM (ensure hardware virtualization/VT-x is enabled in your BIOS).
-*   **Storage:** At least 40GB of free disk space for the VM image.
-
----
-
 ### Disclaimer
 
 **Strictly for Educational and Research Purposes.** 
